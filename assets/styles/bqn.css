@@ -1,0 +1,19 @@
+body {
+	background-color: #444;
+}
+
+.test-square-red {
+	background-color: #5F5F5F;
+	background-image: url('../images/under-construction.png');
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: 75%;
+	position: absolute;
+	color: #FFF;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.test-square-red h1, .test-square-red h6 {
+	margin: 0;
+}
