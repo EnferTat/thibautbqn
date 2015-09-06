@@ -1,19 +1,14 @@
-body {
-	background-color: #444;
-}
+body {background-color: #444;}
 
-.test-square-red {
-	background-color: #5F5F5F;
-	background-image: url('../images/under-construction.png');
-	background-position: center;
-    background-repeat: no-repeat;
-    background-size: 75%;
-	position: absolute;
-	color: #FFF;
-	text-align: center;
-	vertical-align: middle;
-}
+.test-square-red {background-color: #5F5F5F;background-image: url('../images/under-construction.png');background-position: center;background-repeat: no-repeat;background-size: 75%;position: absolute;color: #FFF;text-align: center;vertical-align: middle;}
+.test-square-red h1, .test-square-red h6 {margin: 0;}
 
-.test-square-red h1, .test-square-red h6 {
-	margin: 0;
-}
+#connectForm {text-align: center;}
+#connectForm .col-md-4 {text-align: inherit;}
+#connectForm .col-md-4 h1 {color: #D3D3D3;}
+#connectForm .col-md-4 form {text-align: inherit;}
+#connectForm .col-md-4 form .form-group {text-align: inherit; color: #90EE90;}
+#connectForm .col-md-4 form .form-group input {text-align: inherit;}
+#connectForm .col-md-4 form .form-control {border-radius: 1px; border: 1px solid #CCC;}
+#connectForm .col-md-4 form .form-control:focus {border: 2px solid #90EE90;}
+#connectForm .col-md-4 form .btn-lg {border-radius: 1px;}

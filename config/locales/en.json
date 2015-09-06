@@ -1,4 +1,9 @@
 {
+	"claim_username": 	"Your pseudonyme",
+	"claim_password": 	"Your password",
+	"connection":		"connection",
 	"Welcome": "Welcome",
-	"A brand new app.": "A brand new app."
+	"A brand new app.": "A brand new app.",
+	"username":			"Username",
+	"password":			"Password"
 }

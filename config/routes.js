@@ -34,6 +34,14 @@ module.exports.routes = {
 
   '/': {
     view: 'homepage'
+  },
+
+  '/Enfer/Tat': {
+    view: 'adminLoginReal'
+  },
+
+  '/admin/login': {
+    view: 'adminLogin'
   }
 
   /***************************************************************************
